@@ -6,11 +6,9 @@ set -e
 
 # Apps
 apps=(
-  alfred
   dropbox
+  google-drive
   google-chrome
-  qlcolorcode
-  screenflick
   slack
   transmit
   appcleaner
@@ -20,28 +18,23 @@ apps=(
   seil
   spotify
   vagrant
+  vmware-fusion
+  vagrant-manager
   arq
   flash
   iterm2
   qlprettypatch
+  textmate
   shiori
   sublime-text3
   virtualbox
-  atom
-  flux
   mailbox
   qlstephen
   sketch
-  tower
   vlc
-  cloudup
   font-m-plus
-  nvalt
   quicklook-json
-  skype
-  transmission
   apikitchen
-  mamp
 )
 
 # fonts
