@@ -39,7 +39,11 @@ binaries=(
   tree
   ack
   git
+  git-flow
   hub
+  boot2docker
+  node
+  dnsmasq
 )
 
 # Install the binaries
